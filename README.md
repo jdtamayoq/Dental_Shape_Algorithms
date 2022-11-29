@@ -2,7 +2,7 @@
 
 Para la clasificación se utilizó el software MATLAB en el cual se emplearon 29 técnicas de aprendizaje de máquina entre las cuales tenemos árboles de decisión, análisis de discriminante, clasificación por Naive Bayes, Máquinas de soporte vectorial, técnicas de vecinos más cercanos, clasificadores ensamblados y redes neuronales.
 
-#Técnicas de aprendizaje de máquina.
+# Técnicas de aprendizaje de máquina.
 
 Decision Trees 
  
