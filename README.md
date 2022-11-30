@@ -30,7 +30,8 @@ Support Vector Machines
 1.12 Medium Gaussian SVM
 1.13 Coarse Gaussian SVM
  
- # mejores rendimienndos accuracy 
+
+## Accuracy 
  
  Las tecnicas que empiezan con 1. corresponden a la v1 del software con 18 features mientras las 2. solo presenta 4 features.
  
