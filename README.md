@@ -28,16 +28,7 @@ Support Vector Machines
 1.10 Cubic SVM
 1.11 Fine Gaussian SVM
 1.12 Medium Gaussian SVM
-1.13 Coarse Gaussian SVM
- 
-
-## Accuracy 
- 
- Las tecnicas que empiezan con 1. corresponden a la v1 del software con 18 features mientras las 2. solo presenta 4 features.
- 
- ![Acurracy ](https://github.com/jdtamayoq/Dental_Shape_Algorithms/blob/main/acurracy.PNG)
- 
- 
+1.13 Coarse Gaussian SVM 
  
  
 Nearest Neighbor Classifiers
@@ -66,3 +57,9 @@ Neural Network Classifiers
 1.27 Wide Neural Network
 1.28 Bilayered Neural Network
 1.29 Bilayered Neural Network
+
+## Accuracy 
+ 
+ Las tecnicas que empiezan con 1. corresponden a la v1 del software con 18 features mientras las 2. solo presenta 4 features.
+ 
+ ![Acurracy ](https://github.com/jdtamayoq/Dental_Shape_Algorithms/blob/main/acurracy.PNG)
